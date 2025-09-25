@@ -33,7 +33,7 @@ export default function Collaboration() {
             Partner with us to expand career development opportunities and create lasting impact.
           </p>
           <Button
-                  className="w-lg  bg-secondary hover:bg-secondary/90 text-secondary-foreground"
+                  className=" bg-secondary hover:bg-secondary/90 text-secondary-foreground"
                 >
                  <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe_CUUR1tHXg8pAbia0HEzF4dnwmP1A_K78U-Ng8-_xEXnaWA/viewform">Collaborate with us</a>
                    

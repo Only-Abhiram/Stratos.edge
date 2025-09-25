@@ -10,7 +10,7 @@ export default function Hero() {
     // setIsMenuOpen(false)
   }
   return (
-    <section id="home" className="pt-16 bg-gradient-to-br from-primary to-secondary min-h-screen flex items-center">
+    <section id="home" className=" pt-16 bg-gradient-to-br from-primary to-secondary min-h-screen flex items-center">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 text-balance">

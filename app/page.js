@@ -11,9 +11,10 @@ import ContactCard from '../components/contactus'
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background flex flex-col items-center overflow-x-hidden">
       <Navigation />
-      <main>
+      
+      <main className="w-full">
         <Hero />
         <Services />
         <About />
