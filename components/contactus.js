@@ -10,7 +10,7 @@ const ContactCard = () => {
             <div className="bg-white rounded-3xl shadow-2xl border border-gray-200 overflow-hidden transform transition-all hover:scale-105 max-w-6xl w-full">
                 <div className="flex flex-col md:flex-row">
                     {/* Email */}
-                    <a href="mailto:stratosedgelearning@gmail.com" className="flex-1 p-6  hover:bg-green-100 transition cursor-pointer">
+                    <a href="mailto:stratosedgelearning@gmail.com" className="flex-1 p-6  hover:bg-gray-100 transition cursor-pointer">
                         <div className="flex flex-col gap-2 justify-center items-center  text-center">
 
                             <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" className="w-8 h-8"></img>
@@ -20,7 +20,7 @@ const ContactCard = () => {
                     </a>
 
                     {/* Phone */}
-                    <a href="tel:+919289867821" className="flex-1 p-6   hover:bg-green-100 transition cursor-pointer">
+                    <a href="tel:+919289867821" className="flex-1 p-6   hover:bg-gray-100 transition cursor-pointer">
                         <div className="flex flex-col gap-2 justify-center items-center  text-center">
 
                             <img src="https://img.icons8.com/?size=100&id=dvZnjC1SVTyx&format=png&color=000000" className="w-8 h-8"></img>
@@ -32,7 +32,7 @@ const ContactCard = () => {
                     {/* LinkedIn */}
                     <a href="https://www.linkedin.com/company/stratos-edge-training-solutions/posts/?feedView=all&viewAsMember=true"
                             target="_blank"
-                            rel="noopener noreferrer" className="flex-1 p-6 hover:bg-green-100 transition cursor-pointer">
+                            rel="noopener noreferrer" className="flex-1 p-6 hover:bg-gray-100 transition cursor-pointer">
                         
                             <div className="flex flex-col gap-2 justify-center items-center  text-center">
 
@@ -43,7 +43,7 @@ const ContactCard = () => {
                     </a>
                     <a href="https://t.me/+X7io5Oy4Kg81ODI1"
                             target="_blank"
-                            rel="noopener noreferrer" className="flex-1 p-6 hover:bg-green-100 transition cursor-pointer">
+                            rel="noopener noreferrer" className="flex-1 p-6 hover:bg-gray-100 transition cursor-pointer">
                         <div className="flex flex-col gap-2 justify-center items-center  text-center">
 
                             <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" className="w-8 h-8"></img>
@@ -52,7 +52,7 @@ const ContactCard = () => {
                     </a>
                     <a href="https://www.whatsapp.com/channel/0029Vb6OJFY6LwHjLDrAkB0v"
                             target="_blank"
-                            rel="noopener noreferrer" className="flex-1 p-6 hover:bg-green-100 transition cursor-pointer">
+                            rel="noopener noreferrer" className="flex-1 p-6 hover:bg-gray-100 transition cursor-pointer">
                         <div className="flex flex-col gap-2 justify-center items-center  text-center">
 
                             <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" className="w-8 h-8"></img>

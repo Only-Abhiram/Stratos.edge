@@ -47,9 +47,9 @@ export default function TrainingProposal() {
                         "Enhance understanding of workplace expectations and culture."
                     ]}
                     topics={[
-                        { heading: "C2C Orientation & Readiness", points: ["Understanding corporate work culture and hierarchy", "Professional conduct and organizational ethics", "Time and responsibility management", "Transitioning from student to professional mindset"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" },
-                        { heading: "Professional Etiquette & Grooming", points: ["Dress code and appearance for interviews and work settings", "Business etiquette and meeting protocols", "Professional dining manners", "Maintaining a polished image and behavior"] , link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" },
-                        { heading: "Body Language & First Impressions", points: ["Non-verbal communication mastery", "Confident posture, handshake, and eye contact", "Conveying credibility and professionalism", "Building executive presence"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" }
+                        { heading: "C2C Orientation & Readiness", points: ["Understanding corporate work culture and hierarchy", "Professional conduct and organizational ethics", "Time and responsibility management", "Transitioning from student to professional mindset"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" },
+                        { heading: "Professional Etiquette & Grooming", points: ["Dress code and appearance for interviews and work settings", "Business etiquette and meeting protocols", "Professional dining manners", "Maintaining a polished image and behavior"] , link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" },
+                        { heading: "Body Language & First Impressions", points: ["Non-verbal communication mastery", "Confident posture, handshake, and eye contact", "Conveying credibility and professionalism", "Building executive presence"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" }
                         ]}
                     outcomes={[
                         "Students confidently adapt to corporate environments.",
@@ -67,9 +67,9 @@ export default function TrainingProposal() {
                         "Build self-branding and digital visibility for future careers."
                     ]}
                     topics={[
-                        { heading: "Resume Building & Personal Branding", points: ["Crafting impactful resumes and cover letters", "Highlighting achievements and key skills", "Optimizing LinkedIn and digital presence", "Building an authentic professional brand"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" },
-                        { heading: "Group Discussion & Interview Skills", points: ["GD etiquette and group dynamics", "Handling stress and pressure in interviews", "Behavioral and situational interview techniques", "Personal introduction and storytelling mastery"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" },
-                        { heading: "Mock Interviews with Real-Time Feedback", points: ["Simulated HR and technical interview sessions", "Personalized feedback from industry experts", "Identifying strengths and improvement areas", "Building confidence through repeated practice"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" }
+                        { heading: "Resume Building & Personal Branding", points: ["Crafting impactful resumes and cover letters", "Highlighting achievements and key skills", "Optimizing LinkedIn and digital presence", "Building an authentic professional brand"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" },
+                        { heading: "Group Discussion & Interview Skills", points: ["GD etiquette and group dynamics", "Handling stress and pressure in interviews", "Behavioral and situational interview techniques", "Personal introduction and storytelling mastery"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" },
+                        { heading: "Mock Interviews with Real-Time Feedback", points: ["Simulated HR and technical interview sessions", "Personalized feedback from industry experts", "Identifying strengths and improvement areas", "Building confidence through repeated practice"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" }
                         ]}
                     outcomes={[
                         "Students present themselves effectively to employers.",
@@ -87,8 +87,8 @@ export default function TrainingProposal() {
                         "Enhance teamwork and workplace adaptability."
                     ]}
                     topics={[
-                        { heading: "Email Writing & Communication Skills", points: ["Writing clear, concise, and professional emails", "Understanding tone, grammar, and structure", "Corporate communication channels and etiquette", "Handling feedback and conflict with maturity"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" },
-                        { heading: "Teamwork & Collaboration Skills", points: ["Working in diverse teams", "Managing group tasks and responsibilities", "Active listening and problem-solving", "Leadership within team contexts"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" }
+                        { heading: "Email Writing & Communication Skills", points: ["Writing clear, concise, and professional emails", "Understanding tone, grammar, and structure", "Corporate communication channels and etiquette", "Handling feedback and conflict with maturity"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" },
+                        { heading: "Teamwork & Collaboration Skills", points: ["Working in diverse teams", "Managing group tasks and responsibilities", "Active listening and problem-solving", "Leadership within team contexts"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" }
                     ]}
                     outcomes={[
                         "Effective communication across professional settings.",
@@ -105,7 +105,7 @@ export default function TrainingProposal() {
                         "Enhance teamwork and workplace adaptability."
                     ]}
                     topics={[
-                        { heading: "Government-Approved Internships & Certifications", points: ["Internship programs with recognized industry partners, concise, and professional emails", "Certificate courses aligned to job roles and skill gaps", "Practical exposure to corporate projects and case studies", "Recognition that strengthens resumes and job profiles"], link: "https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform" }
+                        { heading: "Government-Approved Internships & Certifications", points: ["Internship programs with recognized industry partners, concise, and professional emails", "Certificate courses aligned to job roles and skill gaps", "Practical exposure to corporate projects and case studies", "Recognition that strengthens resumes and job profiles"], link: "https://docs.google.com/forms/d/e/1FAIpQLSc5Tc1pwb2KY3bcjjnBUzjzChKjRrsODYNk7fPV2_waHF-bkw/viewform" }
                     ]}
                     outcomes={[
                         "Students gain real-world industry experience before graduation.",
