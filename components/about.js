@@ -23,8 +23,8 @@ export default function About() {
             
            
            
-              <Button className="bg-primary hover:bg-primary/90 text-primary-foreground w-full" onClick={()=>scrollToSection("contactus")}
-              >Contact Us</Button>
+              <button className="bg-black hover:bg-gray-700 ring-4 ring-gray-400 text-white w-full p-2 rounded-xl hover:cursor-pointer transition duration-300 ease-in-out" onClick={()=>scrollToSection("contactus")}
+              >Contact Us</button>
          
           </div>
           <div className="flex justify-center items-center ">

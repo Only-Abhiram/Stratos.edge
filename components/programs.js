@@ -104,18 +104,18 @@ export default function Programs() {
           {programs.map((program, index) => (
             <Card
               key={index}
-              className={`relative bg-background border-border hover:shadow-xl transition-all duration-300 ${program.popular ? "ring-2 ring-primary" : ""}`}
+              className={`relative bg-background border-border hover:shadow-xl transition-all duration-300 ${program.popular ? "ring-2 ring-yellow-500" : ""}`}
             >
               {program.popular && (
                 <div className="absolute -top-4 left-1/2 transform -translate-x-1/2">
-                  <span className="bg-primary text-primary-foreground px-4 py-1 rounded-full text-sm font-semibold">
+                  <span className="bg-yellow-500 text-white px-4 py-1 rounded-full text-sm font-semibold">
                     Most Popular
                   </span>
                 </div>
               )}
               <CardHeader className="text-center">
                 <CardTitle className="text-2xl font-bold text-foreground mb-2">{program.title}</CardTitle>
-                <div className="text-4xl font-bold text-primary mb-2">{program.price}</div>
+                <div className="text-4xl font-bold text-black mb-2">{program.price}</div>
                 <CardDescription className="text-muted">
                   {program.duration} • {program.description}
                 </CardDescription>
@@ -124,14 +124,14 @@ export default function Programs() {
                 <ul className="space-y-3">
                   {program.features.map((feature, featureIndex) => (
                     <li key={featureIndex} className="flex items-center text-foreground">
-                      <span className="text-primary mr-3">✓</span>
+                      <span className="text-black mr-3">✓</span>
                       {feature}
                     </li>
                   ))}
                 </ul>
                 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdC9-vL-JwGBtZG-kknkTd1OIsAaTRJlQ6tBZLONlQ-VI2xSw/viewform">
                   <Button
-                    className={`w-full cursor-pointer ${program.popular ? "bg-primary hover:bg-primary/90 text-primary-foreground" : "bg-secondary hover:bg-secondary/90 text-secondary-foreground"}`}
+                    className={`w-full cursor-pointer ${program.popular ? "bg-black hover:bg-black/90 " : "bg-black hover:bg-black/90 "}`}
                   >
                     Get Started
                   </Button>

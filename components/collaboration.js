@@ -32,19 +32,19 @@ export default function Collaboration() {
           <p className="text-xl text-muted max-w-2xl mx-auto mb-5">
             Partner with us to expand career development opportunities and create lasting impact.
           </p>
-          <Button
-                  className=" bg-secondary hover:bg-secondary/90 text-secondary-foreground"
+          <button
+                  className=" border-2 ring-4 ring-orange-200  border-orange-500  text-orange-500 bg-white rounded-2xl font-bold p-3"
                 >
                  <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe_CUUR1tHXg8pAbia0HEzF4dnwmP1A_K78U-Ng8-_xEXnaWA/viewform">Collaborate with us</a>
                    
-                </Button>
+                </button>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {collaborations.map((collab, index) => (
             <Card
               key={index}
-              className="bg-card border-border hover:shadow-lg transition-shadow duration-300 text-center"
+              className="bg-orange-50 border-border hover:shadow-lg transition-shadow duration-300 text-center"
             >
               <CardHeader>
                 <div className="text-6xl mb-4">{collab.icon}</div>
@@ -60,7 +60,7 @@ export default function Collaboration() {
                     </li>
                   ))}
                 </ul>
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">Learn More</Button>
+                <Button className="w-full bg-gradient-to-br from-orange-500 to-yellow-500 hover:bg-primary/90 text-primary-foreground">Learn More</Button>
               </CardContent>
             </Card>
           ))}

@@ -47,7 +47,7 @@ export default function Testimonials() {
                   ))}
                 </div>
                 <CardTitle className="text-lg font-semibold text-card-foreground">{testimonial.name}</CardTitle>
-                <CardDescription className="text-primary font-medium">{testimonial.role}</CardDescription>
+                <CardDescription className="text-black font-medium">{testimonial.role}</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-muted italic">"{testimonial.content}"</p>
